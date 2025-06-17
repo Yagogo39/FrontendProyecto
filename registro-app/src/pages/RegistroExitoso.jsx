@@ -13,6 +13,9 @@ export default function RegistroExitoso() {
         <p className="mt-2 text-gray-600">
           Tu cuenta ha sido creada correctamente. Ahora puedes iniciar sesión con tus credenciales.
         </p>
+        <p className="mt-2 text-gray-600">
+          https://react-js-proyect.onrender.com/
+        </p>
       </div>
     </div>
   );

@@ -15,7 +15,7 @@ export default function SeleccionCategoria() {
   return (
     <div className="min-h-screen bg-white flex items-center justify-center p-4">
       <div className="w-full max-w-md bg-gray-50 rounded-lg shadow-md p-6">
-        <img src="./public/logo.jpeg" alt="Descripción" className="w-40 mx-auto"/>
+        <img src="https://github.com/Yagogo39/FrontendProyecto/blob/main/registro-app/public/logo.jpeg?raw=true" alt="Descripción" className="w-40 mx-auto"/>
         <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">
           Selecciona tu categoría
         </h2>
