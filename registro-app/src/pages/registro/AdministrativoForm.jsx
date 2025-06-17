@@ -199,12 +199,12 @@ export default function AdministrativoForm() {
                 onChange={handleChange}
                 className="mt-1 block w-full pl-3 pr-10 py-2 text-base border border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 rounded-md"
               >
-                <option value="1">Administrador</option>
-                <option value="2">Docente</option>
-                <option value="3">Coordinador</option>
-                <option value="4">Jefe de Departamento</option>
-                <option value="5">Director</option>
-                <option value="6">Personal de Apoyo</option>
+                <option value="Administrador">Administrador</option>
+                <option value="Docente">Docente</option>
+                <option value="Coordinador">Coordinador</option>
+                <option value="Jefe de Departamento">Jefe de Departamento</option>
+                <option value="Director">Director</option>
+                <option value="Personal de Apoyo">Personal de Apoyo</option>
               </select>
             </div>
 
